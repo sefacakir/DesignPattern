@@ -6,7 +6,6 @@ namespace Chain_of_Responsibility
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
