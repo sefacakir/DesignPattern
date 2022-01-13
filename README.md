@@ -13,7 +13,7 @@
 #### 🔨 Builder
 ![builder](https://user-images.githubusercontent.com/55946046/149017620-709104dc-54d0-465b-ae7b-2aac2c4adb3e.PNG)
 
-## Structual Pattern
+## Structural Pattern
 
 #### ☑️ Facade
 ![facade](https://user-images.githubusercontent.com/55946046/149018252-b883598e-0e6d-416c-9e8e-86bc0e699ffa.PNG)
